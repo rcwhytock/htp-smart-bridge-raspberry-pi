@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/558434531.svg)](https://zenodo.org/badge/latestdoi/558434531)
+
 # Smart Camera Trap
 
 This is the software that will be running on a Raspberry Pi and used together with the Smart Bridge Firmware.
